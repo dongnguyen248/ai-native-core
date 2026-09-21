@@ -46,8 +46,8 @@ CREATE TABLE work_orders (
 
 ### 4.1 Create Work Order
 
-**Method:** `POST`  
-**Path:** `/api/v1/work-orders`  
+**Method:** `POST`
+**Path:** `/api/v1/work-orders`
 **Authentication:** `Authorization: Bearer <token>`
 
 #### Request Headers
