@@ -25,6 +25,8 @@ labels: 'enhancement, pending-dor'
 - [ ] **Given** invalid PII inputs, **When** submitting, **Then** return HTTP 422 with field-level validation errors.
 
 ### 5. Definition of Ready (DoR) Checklist
-- [ ] UI/Data/API split strictly defined.
-- [ ] Non-goals explicitly declared.
-- [ ] PII & Security classification stated.
+- [ ] Business intent and scope are explicitly defined.
+- [ ] UI/Data/API split is strictly defined, including validation and contracts.
+- [ ] Non-goals and operational boundaries are explicitly declared.
+- [ ] PII, security, authentication, and authorization requirements are classified.
+- [ ] Acceptance criteria are testable and include expected status codes and error behavior.
