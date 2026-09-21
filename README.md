@@ -12,7 +12,7 @@ This repository serves as the baseline foundation for the Core Service API. It i
 ## 3. Getting Started & How to Run
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-org/ai-native-core.git
+git clone https://github.com/dongnguyen248/ai-native-core.git
 cd ai-native-core
 
 # Step 2: Install dependencies
